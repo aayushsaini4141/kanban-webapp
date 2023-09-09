@@ -7,7 +7,6 @@ A Kanban board inspired task management application for efficiently managing tas
 * Technologies Used
 * Getting Started
 * Usage
-* Screanshots
 
 ## Demo
 You can view and test the live demo of the application at Live
@@ -34,7 +33,6 @@ Follow these steps to get a copy of the project up and running on your local mac
 ### Clone the Repository:
 
 git clone https://github.com/aayushsaini4141/kanban-webapp
-cd kanban-board
 
 ## Install Dependencies:
 
@@ -67,5 +65,13 @@ npm start
 * Create tasks by filling out the "Add Task" form.
 * Edit task details by clicking the edit button on a task card.
 * Delete tasks by clicking the delete button on a task card.
+
+
+
+
+## Author
+
+- [@Ayush Saini](https://github.com/aayushsaini4141)
+
 
   
